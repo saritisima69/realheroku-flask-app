@@ -33,7 +33,7 @@ parso==0.8.3
 pathy==0.6.1
 pexpect==4.8.0
 pickleshare==0.7.5
-pkg_resources==0.0.0
+#pkg_resources==0.0.0
 pluggy==1.0.0
 preshed==3.0.6
 prompt-toolkit==3.0.29
